@@ -772,17 +772,17 @@ footer.ergo-footer {
   <header class="ergo-header">
     <div class="container ergo-nav">
       <a href="./index.html" class="brand-mark">
-        <div class="brand-logo-icon">G</div>
+        <div class="brand-logo-icon">☕</div>
         <span>BrewTech SG</span>
-        <span class="sg-badge">Singapore Smart Beauty Authority</span>
+        <span class="sg-badge">Singapore Specialty Coffee Authority</span>
       </a>
       <nav class="nav-menu">
         <a href="#productGrid" class="nav-link">Top Hardware</a>
-        <a href="#guides" class="nav-link">HDB Buyer Guides</a>
-        <a href="./category/laser-ipl.html" class="nav-link">Sapphire IPL</a>
-        <a href="./category/led-therapy.html" class="nav-link">LED Light Masks</a>
-        <a href="./category/hair-styling.html" class="nav-link">Ionic Hair Tech</a>
-        <a href="./category/skincare-tech.html" class="nav-link">Sonic Cleansers</a>
+        <a href="#guides" class="nav-link">Singapore Guides</a>
+        <a href="./category/espresso-machines.html" class="nav-link">Espresso Machines</a>
+        <a href="./category/burr-grinders.html" class="nav-link">Precision Burr Grinders</a>
+        <a href="./category/kettles-scales.html" class="nav-link">Smart Kettles & Scales</a>
+        <a href="./category/barista-accessories.html" class="nav-link">Barista Accessories</a>
       </nav>
     </div>
   </header>
@@ -790,13 +790,13 @@ footer.ergo-footer {
   <main>
     <section class="hero-section">
       <div class="container">
-        <span class="eyebrow-tag">Singapore Ergonomics Authority • 2026 Tested</span>
-        <h1 class="hero-title">Clinical-Grade Glow. At Home in Singapore.</h1>
+        <span class="eyebrow-tag">Singapore Home Barista Blueprint • 2026 Tested</span>
+        <h1 class="hero-title">Café-Quality Crema & Silky Microfoam. At Home in Singapore.</h1>
         <p class="hero-subtitle">
-          Dermatologist-grade personal care tech curated for Singapore tropical humidity. Sub-zero sapphire cooling IPL handsets, anti-aging red light LED masks, and 110,000 RPM anti-frizz ionic hair stylers.
+          Enthusiast-grade compact espresso machines, precision steel conical burr grinders, and barista tools tailored for compact Singapore HDB kitchen countertops.
         </p>
         <div class="hero-cta-group">
-          <a href="#productGrid" class="btn-ergo-primary">Browse Top Beauty Tech &rarr;</a>
+          <a href="#productGrid" class="btn-ergo-primary">Browse Top Coffee Tech &rarr;</a>
           <a href="#guides" class="btn-ergo-secondary">Read Singapore Buyer Guides</a>
         </div>
       </div>
@@ -805,11 +805,11 @@ footer.ergo-footer {
     <section class="container" id="productGrid">
       <div class="filter-container">
         <div class="segmented-dock">
-          <button class="segment-btn active" onclick="filterCategory('all', this)">All Devices (${products.length})</button>
-          <button class="segment-btn" onclick="filterCategory('laser-ipl', this)">Sapphire IPL Handsets</button>
-          <button class="segment-btn" onclick="filterCategory('led-therapy', this)">LED Light Therapy</button>
-          <button class="segment-btn" onclick="filterCategory('hair-styling', this)">Ionic Hair Tech</button>
-          <button class="segment-btn" onclick="filterCategory('skincare-tech', this)">Sonic Cleansers & Oral</button>
+          <button class="segment-btn active" onclick="filterCategory('all', this)">All Hardware (${products.length})</button>
+          <button class="segment-btn" onclick="filterCategory('espresso-machines', this)">Espresso Machines</button>
+          <button class="segment-btn" onclick="filterCategory('burr-grinders', this)">Precision Burr Grinders</button>
+          <button class="segment-btn" onclick="filterCategory('kettles-scales', this)">Smart Kettles & Scales</button>
+          <button class="segment-btn" onclick="filterCategory('barista-accessories', this)">Barista Accessories</button>
         </div>
       </div>
 
