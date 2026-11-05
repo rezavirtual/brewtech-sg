@@ -62,7 +62,7 @@ export const CONFIG = {
   site: {
     name: 'BrewTech SG',
     tagline: 'Singapore Home Barista, Compact Espresso Machines & Precision Burr Grinders',
-    url: 'https://brewtech-sg.netlify.app',
+    url: 'https://brew.auraequip.com',
     locale: 'en-SG',
     contactEmail: 'rezavirtual@gmail.com',
     defaultTag: 'pettechsg-22'
