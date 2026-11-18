@@ -32,11 +32,11 @@
       "Uses Nespresso Vertuo capsules"
     ],
     "rawDescription": "The Nespresso Vertuo Next Deluxe brings authentic barista-quality espresso, double espresso, and long black coffee to Singapore homes with 1-touch Centrifusion brewing.",
-    "affiliateUrl": "https://www.amazon.sg/dp/B0GKC1DJCK/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
+    "affiliateUrl": "https://www.amazon.sg/s?k=Nespresso%20Espresso%20%26%20Capsule%20Machines&tag=pettechsg-22&linkCode=ogi",
     "commissionPerSaleSgd": 33.7,
     "effectiveCv": 0.045,
     "expectedYieldPer100Clicks": 151.65,
-    "inStock": true
+    "inStock": false
   },
   {
     "asin": "B07TX8MT4F",
@@ -71,11 +71,11 @@
       "Single-serve milk chamber requires refilling for consecutive cups"
     ],
     "rawDescription": "De'Longhi Lattissima One is the ultimate compact milk-and-coffee machine for Singapore apartments, crafting rich cappuccinos and lattes with zero milk waste.",
-    "affiliateUrl": "https://www.amazon.sg/dp/B07TX8MT4F/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
+    "affiliateUrl": "https://www.amazon.sg/s?k=De'Longhi%20Espresso%20%26%20Capsule%20Machines&tag=pettechsg-22&linkCode=ogi",
     "commissionPerSaleSgd": 48,
     "effectiveCv": 0.04,
     "expectedYieldPer100Clicks": 192,
-    "inStock": true
+    "inStock": false
   },
   {
     "asin": "B0H1SN9L1F",
@@ -188,11 +188,11 @@
       "Bean hopper holds 250g; recommended to keep remaining beans sealed for freshness"
     ],
     "rawDescription": "Kismile 20-Bar All-in-One Espresso Machine features an integrated conical burr grinder, pressure gauge, and powerful steam wand for specialty coffee in Singapore.",
-    "affiliateUrl": "https://www.amazon.sg/s?k=Kismile%20Espresso%20%26%20Capsule%20Machines&tag=pettechsg-22&linkCode=ogi",
+    "affiliateUrl": "https://www.amazon.sg/dp/B0GY3712NS/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
     "commissionPerSaleSgd": 44.39,
     "effectiveCv": 0.035,
     "expectedYieldPer100Clicks": 155.37,
-    "inStock": false
+    "inStock": true
   },
   {
     "asin": "B0HH9FJNCF",
@@ -305,11 +305,11 @@
       "Single thermoblock requires quick cool-down flush between steaming and brewing"
     ],
     "rawDescription": "Zulay Kitchen 20-Bar Compact Espresso Machine features a digital LCD screen, cup warming plate, and stainless steel steam wand for effortless daily coffee.",
-    "affiliateUrl": "https://www.amazon.sg/dp/B0H1SGCMNG/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
+    "affiliateUrl": "https://www.amazon.sg/s?k=Zulay%20Kitchen%20Espresso%20%26%20Capsule%20Machines&tag=pettechsg-22&linkCode=ogi",
     "commissionPerSaleSgd": 16.01,
     "effectiveCv": 0.085,
     "expectedYieldPer100Clicks": 136.09,
-    "inStock": true
+    "inStock": false
   },
   {
     "asin": "B0FPMBPVF1",
@@ -500,11 +500,11 @@
       "Stovetop/induction design requires external stove or hotplate (not electric plug-in)"
     ],
     "rawDescription": "HARIO V60 Buono Stainless Gooseneck Kettle offers barista-standard pour control for crafting aromatic manual pour-over coffee in Singapore.",
-    "affiliateUrl": "https://www.amazon.sg/s?k=HARIO%20Smart%20Temperature%20Kettles%20%26%20Drippers&tag=pettechsg-22&linkCode=ogi",
+    "affiliateUrl": "https://www.amazon.sg/dp/B0BW8Q4M26/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
     "commissionPerSaleSgd": 2.76,
     "effectiveCv": 0.085,
     "expectedYieldPer100Clicks": 23.46,
-    "inStock": false
+    "inStock": true
   },
   {
     "asin": "B0BWGXG5GN",
