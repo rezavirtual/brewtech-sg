@@ -500,11 +500,11 @@
       "Stovetop/induction design requires external stove or hotplate (not electric plug-in)"
     ],
     "rawDescription": "HARIO V60 Buono Stainless Gooseneck Kettle offers barista-standard pour control for crafting aromatic manual pour-over coffee in Singapore.",
-    "affiliateUrl": "https://www.amazon.sg/dp/B0BW8Q4M26/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
+    "affiliateUrl": "https://www.amazon.sg/s?k=HARIO%20Smart%20Temperature%20Kettles%20%26%20Drippers&tag=pettechsg-22&linkCode=ogi",
     "commissionPerSaleSgd": 2.76,
     "effectiveCv": 0.085,
     "expectedYieldPer100Clicks": 23.46,
-    "inStock": true
+    "inStock": false
   },
   {
     "asin": "B0BWGXG5GN",
@@ -539,11 +539,11 @@
       "Lid knob can become warm during extended rolling boils"
     ],
     "rawDescription": "HARIO 800ml Buono Stainless Drip Kettle provides precision laminar flow and balanced ergonomics for pour-over coffee perfection in Singapore.",
-    "affiliateUrl": "https://www.amazon.sg/dp/B0BWGXG5GN/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
+    "affiliateUrl": "https://www.amazon.sg/s?k=HARIO%20Smart%20Temperature%20Kettles%20%26%20Drippers&tag=pettechsg-22&linkCode=ogi",
     "commissionPerSaleSgd": 3.73,
     "effectiveCv": 0.055,
     "expectedYieldPer100Clicks": 20.52,
-    "inStock": true
+    "inStock": false
   },
   {
     "asin": "B07C9GG9XH",
@@ -656,10 +656,10 @@
       "Requires 2 AA batteries (not included)"
     ],
     "rawDescription": "FrothBlast Portable Handheld Milk Frother spins at 19,000 RPM to whip silky microfoam for lattes, matcha, and protein shakes in 15 seconds.",
-    "affiliateUrl": "https://www.amazon.sg/dp/B09468KYFH/?tag=pettechsg-22&linkCode=ogi&th=1&psc=1",
+    "affiliateUrl": "https://www.amazon.sg/s?k=FrothBlast%20Barista%20Accessories%20%26%20Scales&tag=pettechsg-22&linkCode=ogi",
     "commissionPerSaleSgd": 1.26,
     "effectiveCv": 0.085,
     "expectedYieldPer100Clicks": 10.71,
-    "inStock": true
+    "inStock": false
   }
 ]
